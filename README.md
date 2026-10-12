@@ -1,37 +1,64 @@
-<h1 align="center">  Hi <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif " height="30" width="30" />, I'm Mohd. Imran</h1>
+<h1 align="center">Hi 👋, I'm Mohd. Imran</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Secure Messaging Systems</h3>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=imranmohd7131" />
-  </p>
-
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="450px" align="right" >
-
-
-- 👨‍💻 Java Developer
-
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
-
-## Socials
-
-<p align="left">
-<a href="https://github.com/imranmohd7131/mohdimran" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/mohd-imran-905727232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://twitter.com/Imranmo45360976" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://github.com/imranmohd7131">
+    <img src="https://komarev.com/ghpvc/?username=imranmohd7131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranmohd7131&layout=compact" alt="imranmohd7131" height="150" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=imranmohd7131&" height="150" alt="imranmohd7131" /></p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranmohd7131&hide=issues" height="150" alt="imranmohd7131" />
+  Java Backend Developer with 3+ years of experience building secure, scalable backend services and enterprise messaging platforms.
+</p>
+
+- 🔭 I’ve worked on production RCS messaging and CPaaS platforms serving 20+ enterprise clients, with combined daily volume peaking at 100K+ messages.
+- 🔐 I build secure APIs using Spring Security, OAuth 2.0, and JWT.
+- ⚙️ I work with Kafka, Redis, MySQL, and MongoDB to build asynchronous and high-throughput services.
+- 🤖 I’m exploring AI-powered applications with Spring AI, RAG, and LLMs.
+- 🌱 Currently strengthening my backend engineering skills and building practical Java/Spring Boot projects.
+- 💬 Ask me about Java, Spring Boot, REST APIs, Microservices, Kafka, OAuth2/JWT, and SQL.
+- 📫 Reach me through LinkedIn or email at khanimran7131@gmail.com.
+🛠️ Tech Stack
+Backend & Programming
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" />
+</p>
+
+Java: Core Java, OOP, Collections, Streams
+Backend: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, REST APIs
+Architecture & Messaging: Microservices, Apache Kafka, asynchronous processing
+Security: OAuth 2.0, JWT, authentication, authorization, role-based access control
+Databases & Caching: MySQL, MongoDB, Redis
+AI/GenAI: Spring AI, Retrieval-Augmented Generation (RAG), LLMs, prompt engineering
+Tools: Git, GitHub, GitLab, Maven, Postman, Swagger, Eclipse, VS Code
+🚀 Experience Highlights
+- Developed production RCS REST APIs for OTP, transactional, and promotional messaging workflows.
+- Secured client-facing APIs with OAuth 2.0 and JWT bearer-token authentication.
+- Built Kafka-based asynchronous messaging and bulk-processing pipelines.
+- Improved processing throughput and API response times by approximately 30–40% through query optimization and Redis caching.
+- Built an RCS Admin Portal with bot registration, IP whitelisting, role-based access, activity monitoring, and delivery-status reporting.
+- Developed a CPaaS Sales CRM portal with lead assignment, funnel tracking, secure login, and sales reporting.
+- Built AI-powered PDF question-answering applications using Spring Boot, Spring AI, and RAG.
+📌 Featured Project Areas
+RCS Identity & Security Platform
+A multi-service security setup with a standalone OAuth 2.0 Authorization Server and resource servers that validate JWT access tokens to protect RCS API integrations.
+Technologies: Java, Spring Boot, Spring Security, OAuth 2.0, JWT, REST APIs, Kafka, Redis, MongoDB, MySQL
+Sales CRM Portal — CPaaS Lead Management
+A lead-management portal with role-based dashboards, OTP-based authentication, CSV/Excel uploads, automated lead assignment, funnel tracking, and sales reporting.
+Technologies: Java, Spring Boot, Spring Security, Thymeleaf, Bootstrap, MySQL
+RCS Admin & Integration Platform
+An admin console for bot registration, client onboarding, user/activity monitoring, delivery-status reporting, and configuration-driven third-party integrations.
+Technologies: Spring Boot, Thymeleaf, Bootstrap, MySQL, REST APIs
+Add links to the corresponding public repositories above only when the code is available in your GitHub account. Do not list private or employer-owned code as public portfolio work without permission.
+
+🤝 Connect with Me
+<p align="left">
+  <a href="https://github.com/imranmohd7131" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" height="32" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-imran-905727232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="32" width="32" />
+  </a>
 </p>
