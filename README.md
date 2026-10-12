@@ -1,64 +1,112 @@
-<h1 align="center">Hi 👋, I'm Mohd. Imran</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Secure Messaging Systems</h3>
+<!--
+Premium GitHub profile README for imranmohd7131.
+GitHub profile README repository: https://github.com/imranmohd7131/imranmohd
+Keep project links limited to repositories that are actually public and yours.
+-->
 
-<p align="center">
-  <a href="https://github.com/imranmohd7131">
-    <img src="https://komarev.com/ghpvc/?username=imranmohd7131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  Java Backend Developer with 3+ years of experience building secure, scalable backend services and enterprise messaging platforms.
-</p>
+# Mohd. Imran
+### Java Backend Developer · Spring Boot · Microservices
 
-- 🔭 I’ve worked on production RCS messaging and CPaaS platforms serving 20+ enterprise clients, with combined daily volume peaking at 100K+ messages.
-- 🔐 I build secure APIs using Spring Security, OAuth 2.0, and JWT.
-- ⚙️ I work with Kafka, Redis, MySQL, and MongoDB to build asynchronous and high-throughput services.
-- 🤖 I’m exploring AI-powered applications with Spring AI, RAG, and LLMs.
-- 🌱 Currently strengthening my backend engineering skills and building practical Java/Spring Boot projects.
-- 💬 Ask me about Java, Spring Boot, REST APIs, Microservices, Kafka, OAuth2/JWT, and SQL.
-- 📫 Reach me through LinkedIn or email at khanimran7131@gmail.com.
-🛠️ Tech Stack
-Backend & Programming
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" />
-</p>
+**Building secure APIs and high-throughput messaging systems.**
 
-Java: Core Java, OOP, Collections, Streams
-Backend: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, REST APIs
-Architecture & Messaging: Microservices, Apache Kafka, asynchronous processing
-Security: OAuth 2.0, JWT, authentication, authorization, role-based access control
-Databases & Caching: MySQL, MongoDB, Redis
-AI/GenAI: Spring AI, Retrieval-Augmented Generation (RAG), LLMs, prompt engineering
-Tools: Git, GitHub, GitLab, Maven, Postman, Swagger, Eclipse, VS Code
-🚀 Experience Highlights
-- Developed production RCS REST APIs for OTP, transactional, and promotional messaging workflows.
-- Secured client-facing APIs with OAuth 2.0 and JWT bearer-token authentication.
-- Built Kafka-based asynchronous messaging and bulk-processing pipelines.
-- Improved processing throughput and API response times by approximately 30–40% through query optimization and Redis caching.
-- Built an RCS Admin Portal with bot registration, IP whitelisting, role-based access, activity monitoring, and delivery-status reporting.
-- Developed a CPaaS Sales CRM portal with lead assignment, funnel tracking, secure login, and sales reporting.
-- Built AI-powered PDF question-answering applications using Spring Boot, Spring AI, and RAG.
-📌 Featured Project Areas
-RCS Identity & Security Platform
-A multi-service security setup with a standalone OAuth 2.0 Authorization Server and resource servers that validate JWT access tokens to protect RCS API integrations.
-Technologies: Java, Spring Boot, Spring Security, OAuth 2.0, JWT, REST APIs, Kafka, Redis, MongoDB, MySQL
-Sales CRM Portal — CPaaS Lead Management
-A lead-management portal with role-based dashboards, OTP-based authentication, CSV/Excel uploads, automated lead assignment, funnel tracking, and sales reporting.
-Technologies: Java, Spring Boot, Spring Security, Thymeleaf, Bootstrap, MySQL
-RCS Admin & Integration Platform
-An admin console for bot registration, client onboarding, user/activity monitoring, delivery-status reporting, and configuration-driven third-party integrations.
-Technologies: Spring Boot, Thymeleaf, Bootstrap, MySQL, REST APIs
-Add links to the corresponding public repositories above only when the code is available in your GitHub account. Do not list private or employer-owned code as public portfolio work without permission.
+<a href="https://www.linkedin.com/in/mohd-imran-905727232/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/imranmohd7131">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-🤝 Connect with Me
-<p align="left">
-  <a href="https://github.com/imranmohd7131" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" height="32" width="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohd-imran-905727232/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="32" width="32" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=imranmohd7131&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## About
+
+I'm a **Java Backend Developer with 3+ years of experience** building secure backend services for RCS messaging and CPaaS platforms. My work has included API security, asynchronous processing, third-party integrations, and performance optimization in production systems.
+
+- **Production scale:** Systems serving **20+ enterprise clients**, with combined daily message volume peaking at **100K+ messages**.
+- **Performance:** Improved processing throughput and API response times by approximately **30–40%** through query optimization and Redis caching.
+- **Backend focus:** Java, Spring Boot, REST APIs, microservices, Kafka, Redis, OAuth 2.0, and JWT.
+- **AI applications:** Built PDF question-answering applications using Spring AI and Retrieval-Augmented Generation (RAG).
+
+## Technical Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Java (Core & Advanced), SQL |
+| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, REST APIs |
+| **Security** | Spring Security, OAuth 2.0, JWT, RBAC, authentication and authorization |
+| **Architecture & messaging** | Microservices, Apache Kafka, asynchronous processing, webhooks |
+| **Data** | MySQL, MongoDB, Redis |
+| **Integrations** | RCS APIs, Google RCS Business Messaging API, third-party API integrations |
+| **AI / GenAI** | Spring AI, RAG, LLMs, prompt engineering |
+| **Tools** | Git, GitHub, GitLab, Maven, Postman, Swagger, MySQL Workbench, Eclipse, VS Code |
+
+## Selected Engineering Work
+
+### 🔐 RCS Identity & Security Platform
+Built a standalone OAuth 2.0 Authorization Server that issues JWT access tokens, alongside two Resource Servers that validate tokens and protect API access. Integrated services with internal RCS messaging APIs and Google's RCS Business Messaging API.
+
+**Focus:** Spring Boot · Spring Security · OAuth 2.0 · JWT · REST APIs · Kafka · Redis · MongoDB · MySQL
+
+### 📊 Sales CRM — CPaaS Lead Management
+Developed a lead-management portal with role-based dashboards, OTP-based login, CSV/XLS lead uploads, automated lead assignment, lead-funnel tracking, and sales-performance reporting.
+
+**Focus:** Java · Spring Boot · Spring Security · Thymeleaf · Bootstrap · MySQL
+
+### ⚙️ RCS Admin & Integration Platform
+Built an admin console for bot registration, client onboarding, activity monitoring, and webhook-driven delivery-status reporting. Developed a configuration-driven connector framework to reduce integration-specific code changes.
+
+**Focus:** Spring Boot · REST APIs · Thymeleaf · MySQL · Third-party integrations
+
+### 🤖 AI-Powered PDF Q&A
+Built an application that lets users upload PDF documents and ask questions about their content using Spring Boot, Spring AI, and RAG.
+
+**Focus:** Java · Spring Boot · Spring AI · RAG · LLMs
+
+> These descriptions summarize professional work from my experience. Repository links are intentionally omitted unless the corresponding code is publicly available and approved for sharing.
+
+## GitHub at a Glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imranmohd7131&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub stats for imranmohd7131" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranmohd7131&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=imranmohd7131&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Beyond the Code
+
+- 🥈 **2nd Place** — Website Development, BIZZTECH 2022
+- 🥈 **2nd Place** — IT Web Designing, State Level Skill Competitions 2018
+- 🎓 **BCA**, Panjab University, Chandigarh
+
+## Let's Connect
+
+Interested in Java backend engineering, secure API design, messaging platforms, or practical AI applications? Connect with me on [LinkedIn](https://www.linkedin.com/in/mohd-imran-905727232/) or explore my work here on [GitHub](https://github.com/imranmohd7131).
+
+---
+
+<div align="center">
+  <sub>Focused on reliable systems, clean APIs, and continuous learning.</sub>
+</div>
